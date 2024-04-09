@@ -1,0 +1,32 @@
+00 Laurance Ren    FS 000100.00
+07 Laurance Ren    FS 000100.00
+03 CounterStrike       Laurance Ren    50.00 025.00
+10 Laurance Ren    FS 000100.00
+00 Damon Ge        AA 000900.00
+07 Damon Ge        AA 000900.00
+07 Damon Ge        AA 000900.00
+07 Damon Ge        AA 000900.00
+01 Hacker          FS 999999.99
+10 Damon Ge        AA 000900.00
+00 Yuze Wu         AA 000100.00
+02 Hacker          FS 999999.99
+02 Hacker          FS 999999.99
+04 CounterStrike       Laurance Ren    Yuze Wu
+10 Yuze Wu         AA 000075.00
+00 Gary Hu         SS 000100.00
+06 Gary Hu         SS 000500.00
+10 Gary Hu         SS 000600.00
+00 Yuze Wu         AA 000075.00
+05 Yuze Wu         Laurance Ren    000025.00
+10 Yuze Wu         AA 000100.00
+00 Laurance Ren    FS 000100.00
+09 LeagueOfLegends     Laurance Ren    Damon Ge
+08 CounterStrike       Yuze Wu         Gary Hu
+10 Laurance Ren    FS 000100.00
+00 Yuze Wu         AA 000100.00
+08 CounterStrike       Yuze Wu         Gary Hu
+08 OverWatch           Yuze Wu         Laurance Ren
+10 Yuze Wu         AA 000100.00
+00 Damon Ge        AA 000900.00
+09 LeagueOfLegends     Damon Ge        Laurance Ren
+10 Damon Ge        AA 000900.00

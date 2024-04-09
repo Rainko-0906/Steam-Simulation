@@ -1,0 +1,5 @@
+Laurance Ren,full-standard,87.5
+Yuze Wu,admin,112.5
+Gary Hu,sell-standard,600.0
+Damon Ge,admin,900.0
+Hacker,full-standard,999999.99
